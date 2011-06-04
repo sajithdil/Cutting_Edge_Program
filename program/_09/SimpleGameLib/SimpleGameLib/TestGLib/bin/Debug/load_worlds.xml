@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<world_information>
+  <worlds>
+    <name>room_one</name>
+    <map>room_one_map.xml</map>
+    <assets>room_one_assets.xml</assets>
+    <events>room_one_events.xml</events>
+  </worlds>
+  <worlds>
+    <name>main_hall</name>
+    <map>main_hall_map.xml</map>
+    <assets>main_hall_assets.xml</assets>
+    <events>main_hall_events.xml</events>
+  </worlds>
+</world_information>

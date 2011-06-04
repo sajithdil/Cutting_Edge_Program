@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<asset_data>
+  <assets>
+    <comment>Dungeon wall tile</comment>
+    <name>dungeon_tile_one</name>
+  </assets>
+  <assets>
+    <comment>Dungeon ground tile pattern two</comment>
+    <name>dungeon_tile_two</name>
+  </assets>
+</asset_data>

@@ -1,0 +1,27 @@
+Starting to log....
+ 
+[ 4/4/2011 9:15:38 AM ] @Scriptkeeper : Starting to load scripts 
+ 
+[ 4/4/2011 9:15:38 AM ] @ Scriptkeeper : Empy script file missing alias or file 
+ 
+[ 4/4/2011 9:15:38 AM ] @Scriptkeeper : Finished loading scripts 
+ 
+[ 4/4/2011 9:15:38 AM ] @WorldsKeeper loading the worlds
+ 
+[ 4/4/2011 9:15:38 AM ] @WorldsKeeper finished loading the worlds
+ 
+[ 4/4/2011 9:15:38 AM ] @World loading world room_one
+ 
+[ 4/4/2011 9:15:38 AM ] @EventMap SimpleGameLib.Events.EventMap from room_one_events.xml starting to load the events 
+ 
+[ 4/4/2011 9:15:38 AM ] @EventMap SimpleGameLib.Events.EventMap finished loading events room_one_events.xml
+ 
+[ 4/4/2011 9:15:38 AM ] @MapInformation SimpleGameLib.MapInformation starting to load the map room_one_map.xml
+ 
+[ 4/4/2011 9:15:38 AM ] @MapInformation SimpleGameLib.MapInformation finished loading the map information from room_one_map.xml
+ 
+[ 4/4/2011 9:15:38 AM ] @AssetsKeeper SimpleGameLib.AssetKeeper.AssetsKeeper loading the assets from : room_one_assets.xml
+ 
+[ 4/4/2011 9:15:38 AM ] @AssetsKeeper finished loading the assets from room_one_assets.xml
+ 
+[ 4/4/2011 9:15:38 AM ] @World finished loading the world room_one

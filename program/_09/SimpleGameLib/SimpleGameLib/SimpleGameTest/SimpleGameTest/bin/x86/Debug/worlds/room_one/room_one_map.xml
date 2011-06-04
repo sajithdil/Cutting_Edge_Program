@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<map_data>
+  <mapObject>
+    <x>10</x>
+    <y>10</y>
+    <visible>false</visible>
+    <image>table</image>
+    <alias>door</alias>
+    <collision>false</collision>
+  </mapObject>
+  <mapQuads>
+    <x>0</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>dungeon_tile_one</image>
+    <alias>room_floor</alias>
+    <collision>false</collision>
+    <unitw>50</unitw>
+    <unith>50</unith>
+  </mapQuads>
+  <!--The floor of the room-->
+  <mapQuads>
+    <x>0</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>11</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  
+
+  <mapQuads>
+    <x>416</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>11</unitw>
+    <unith>1</unith>
+  </mapQuads>
+  
+  <mapQuads>
+    <x>0</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>6</unith>
+  </mapQuads>
+
+
+  <mapQuads>
+    <x>0</x>
+    <y>256</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>6</unith>
+  </mapQuads>
+  
+  <mapQuads>
+    <x>768</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>50</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>0</x>
+    <y>450</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>50</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>352</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>door</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>0</x>
+    <y>192</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>gunpowder_barrel</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>738</x>
+    <y>250</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>cupboard</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+  
+</map_data>
+
+

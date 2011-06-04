@@ -1,0 +1,79 @@
+Starting to log....
+ 
+[ 6/4/2011 2:46:27 AM ] @Scriptkeeper : Starting to load scripts 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 6/4/2011 2:46:27 AM ] @Scriptkeeper : Finished loading scripts 
+ 
+[ 6/4/2011 2:46:27 AM ] @WorldsKeeper loading the worlds
+ 
+[ 6/4/2011 2:46:27 AM ] @WorldsKeeper finished loading the worlds
+ 
+[ 6/4/2011 2:46:27 AM ] @AssetsKeeper SimpleGameLib.AssetKeeper.AssetsKeeper loading the assets from : style/assets.xml
+ 
+[ 6/4/2011 2:46:27 AM ] @AssetsKeeper finished loading the assets from style/assets.xml
+ 
+[ 6/4/2011 2:46:27 AM ] @Style starting to load the file style style/style.xml
+ 
+[ 6/4/2011 2:46:27 AM ] @Style finished loading file style style/style.xml
+ 
+[ 6/4/2011 2:46:27 AM ] @World loading world room_three
+ 
+[ 6/4/2011 2:46:27 AM ] @EventMap SimpleGameLib.Events.EventMap from worlds/room_three/room_three_events.xml starting to load the events 
+ 
+[ 6/4/2011 2:46:27 AM ] @EventMap SimpleGameLib.Events.EventMap finished loading events worlds/room_three/room_three_events.xml
+ 
+[ 6/4/2011 2:46:27 AM ] @MapInformation SimpleGameLib.MapInformation starting to load the map worlds/room_three/room_three_map.xml
+ 
+[ 6/4/2011 2:46:27 AM ] @MapInformation SimpleGameLib.MapInformation finished loading the map information from worlds/room_three/room_three_map.xml
+ 
+[ 6/4/2011 2:46:27 AM ] @AssetsKeeper SimpleGameLib.AssetKeeper.AssetsKeeper loading the assets from : worlds/room_three/room_three_assets.xml
+ 
+[ 6/4/2011 2:46:27 AM ] @AssetsKeeper finished loading the assets from worlds/room_three/room_three_assets.xml
+ 
+[ 6/4/2011 2:46:27 AM ] @World executing the world script : 
+ 
+[ 6/4/2011 2:46:27 AM ] @World no world script file entered
+ 
+[ 6/4/2011 2:46:27 AM ] @World finished executing the world script
+ 
+[ 6/4/2011 2:46:27 AM ] @World finished loading the world room_three
+ 
+[ 6/4/2011 2:46:27 AM ] $start_up.py Attempting to create the cursor
+ 
+[ 6/4/2011 2:46:27 AM ] $start_up.py Finished creating cursor
+ 
+[ 6/4/2011 2:46:27 AM ] $start_up.py Attempting to add a player
+ 
+[ 6/4/2011 2:46:27 AM ] $start_up.py Finished adding a player
+ 
+[ 6/4/2011 2:46:27 AM ] Finished running the script start_up.py

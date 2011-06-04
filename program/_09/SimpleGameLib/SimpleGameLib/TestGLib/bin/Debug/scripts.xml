@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<script_information>
+<script>
+  <comment>A test instruction</comment>
+  <alias>instruction</alias>
+  <file>start_up_ui/instruction.py</file>
+</script>
+</script_information>

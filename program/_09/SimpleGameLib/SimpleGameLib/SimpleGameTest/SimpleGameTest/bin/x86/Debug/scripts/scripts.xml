@@ -1,0 +1,65 @@
+<!--This file MUST contain all scripts used in the game-->
+<!--The file path is specified with the debug folder as the root-->
+<script_collection>
+  <script>
+    <!--The file is executed once the game loads-->
+    <alias>start_up</alias>
+    <file>scripts/start_up.py</file>
+  </script>
+  <script>
+    <alias>welcome</alias>
+    <file>scripts/welcome.py</file>
+  </script>
+  <script>
+    <alias>sys_msg</alias>
+    <file>scripts/system_messages.py</file>
+  </script>
+  <script>
+    <alias>close_window</alias>
+    <file>scripts/close_window.py</file>
+  </script>
+  <script>
+    <alias>quiz_window</alias>
+    <file>scripts/quiz_window.py</file>
+  </script>
+  <script>
+    <alias>quiz_close</alias>
+    <file>scripts/quiz_close.py</file>
+  </script>
+  <script>
+    <alias>notification</alias>
+    <file>scripts/message_windows/notification.py</file>
+  </script>
+  <script>
+    <alias>load_two</alias>
+    <file>scripts/load_room_two.py</file>
+  </script>
+  <script>
+    <alias>pick_key</alias>
+    <file>scripts/room_one_scripts/pick_key.py</file>
+  </script>
+  <script>
+    <alias>option_screen</alias>
+    <file>scripts/message_windows/option_screen.py</file>
+  </script>
+  <script>
+    <alias>key_option_one_selected</alias>
+    <file>scripts/room_one_scripts/option_one_selected.py</file>
+  </script>
+  <script>
+    <alias>key_option_two_selected</alias>
+    <file>scripts/room_one_scripts/option_two_selected.py</file>
+  </script>
+  <script>
+    <alias>key_option_three_selected</alias>
+    <file>scripts/room_one_scripts/option_three_selected.py</file>
+  </script>
+  <script>
+    <alias>tile_activate</alias>
+    <file>scripts/room_two_scripts/tile_activate.py</file>
+  </script>
+  <script>
+    <alias>tile_activate_close</alias>
+    <file>scripts/room_two_scripts/tile_activate_close.py</file>
+  </script>
+</script_collection>

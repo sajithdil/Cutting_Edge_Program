@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<map_data>
+  <!--unused map object-->
+  <mapObject>
+    <x>10</x>
+    <y>10</y>
+    <visible>false</visible>
+    <image>dungeon_tile_one</image>
+    <alias>door</alias>
+    <collision>false</collision>
+  </mapObject>
+  <!--map floor-->
+  <mapQuads>
+    <x>0</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>dungeon_tile_one</image>
+    <alias>room_floor</alias>
+    <collision>false</collision>
+    <unitw>50</unitw>
+    <unith>50</unith>
+  </mapQuads>
+  
+  <!--Wall creation starts here-->
+  
+  <!--Top wall-->
+  <mapQuads>
+    <x>0</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>50</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <!--Left wall-->
+  <mapQuads>
+    <x>0</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>50</unith>
+  </mapQuads>
+
+  <!--right wall-->
+  <mapQuads>
+    <x>768</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>50</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>768</x>
+    <y>352</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>door_right</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+
+  <!--wall bottom-->
+  <mapQuads>
+    <x>0</x>
+    <y>450</y>
+    <visible>true</visible>
+    <image>wall</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+
+  <mapQuads>
+    <x>64</x>
+    <y>450</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>door_bottom</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>32</x>
+    <y>223</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>3</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>32</x>
+    <y>223</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_one</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>127</x>
+    <y>32</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>50</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>127</x>
+    <y>50</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_two</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>127</x>
+    <y>352</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_three</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>158</x>
+    <y>128</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>3</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>256</x>
+    <y>0</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>50</unith>
+  </mapQuads>
+  
+    <mapQuads>
+      <x>159</x>
+      <y>280</y>
+      <visible>true</visible>
+      <image>grass_tile</image>
+      <alias>wall</alias>
+      <collision>true</collision>
+      <unitw>3</unitw>
+      <unith>1</unith>
+    </mapQuads>
+
+  <mapQuads>
+    <x>158</x>
+    <y>280</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_four</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>256</x>
+    <y>386</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_five</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>256</x>
+    <y>32</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_six</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>288</x>
+    <y>96</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>3</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>288</x>
+    <y>192</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>3</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>288</x>
+    <y>352</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>3</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>384</x>
+    <y>32</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>50</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>384</x>
+    <y>32</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_eight</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>288</x>
+    <y>96</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_nine</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>384</x>
+    <y>128</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_ten</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>320</x>
+    <y>352</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_eleven</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>416</x>
+    <y>96</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>3</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+
+  <mapQuads>
+    <x>416</x>
+    <y>224</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>3</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>512</x>
+    <y>32</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>50</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>448</x>
+    <y>224</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_twelve</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+  
+  <mapQuads>
+    <x>512</x>
+    <y>32</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_thirteen</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>544</x>
+    <y>120</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>4</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>544</x>
+    <y>220</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>4</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>544</x>
+    <y>332</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>4</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>672</x>
+    <y>32</y>
+    <visible>true</visible>
+    <image>grass_tile</image>
+    <alias>wall</alias>
+    <collision>true</collision>
+    <unitw>1</unitw>
+    <unith>50</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>544</x>
+    <y>120</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_fifteen</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>608</x>
+    <y>220</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_sixteen</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>544</x>
+    <y>332</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_seventeen</alias>
+    <collision>false</collision>
+    <unitw>2</unitw>
+    <unith>1</unith>
+  </mapQuads>
+
+  <mapQuads>
+    <x>672</x>
+    <y>366</y>
+    <visible>true</visible>
+    <image>door</image>
+    <alias>sprite_block_eighteen</alias>
+    <collision>false</collision>
+    <unitw>1</unitw>
+    <unith>2</unith>
+  </mapQuads>
+  
+</map_data>
+
+

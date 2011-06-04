@@ -1,0 +1,5 @@
+C:\Users\ranger1\documents\visual studio 2010\Projects\SimpleWindow\SimpleWindow\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ranger1\documents\visual studio 2010\Projects\SimpleWindow\SimpleWindow\bin\Release\SimpleWindow.dll
+C:\Users\ranger1\documents\visual studio 2010\Projects\SimpleWindow\SimpleWindow\bin\Release\SimpleWindow.pdb
+C:\Users\ranger1\documents\visual studio 2010\Projects\SimpleWindow\SimpleWindow\obj\Release\SimpleWindow.dll
+C:\Users\ranger1\documents\visual studio 2010\Projects\SimpleWindow\SimpleWindow\obj\Release\SimpleWindow.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<event_data>
+  <events>
+    <name>test_event</name>
+    <script_file>load_two</script_file>
+    <x>358</x>
+    <y>10</y>
+    <width>32</width>
+    <height>32</height>
+    <trigger>1</trigger>
+  </events>
+  <events>
+    <name>potion_event</name>
+    <script_file>notification</script_file>
+    <x>10</x>
+    <y>150</y>
+    <width>32</width>
+    <height>32</height>
+    <trigger>1</trigger>
+  </events>
+  <events>
+    <name>find_key</name>
+    <script_file>pick_key</script_file>
+    <x>738</x>
+    <y>250</y>
+    <width>32</width>
+    <height>64</height>
+    <trigger>1</trigger>
+  </events>
+</event_data>

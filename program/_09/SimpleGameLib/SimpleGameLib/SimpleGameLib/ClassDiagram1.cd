@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleGameLib.MapObject">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAgwAABIMAAAQAQAAAAEIAAAAAAAAKAABgCAAQYIA=</HashCode>
+      <FileName>WorldData\MapObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGameLib.MapQuadlilateral">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAACAAAAQAAAAAgAAAAAAAAQAAA=</HashCode>
+      <FileName>WorldData\MapQuadlilateral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGameLib.MapInformation" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAABAAAAAAAAEAAAAAIAAIAAAAAAAERAAA=</HashCode>
+      <FileName>WorldData\MapInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGameLib.World">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQEAgAEAAAAAAABAAAAEQAAEAEACoAAAAAAEBAAAA=</HashCode>
+      <FileName>WorldData\World.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGameLib.ScriptKeeper">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAgAAAAAAAAAACAABAAAYEAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\ScriptKeeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGameLib.WorldsKeeper">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAgAAAAAAAAAgAgABAAAcABAAAAAACgAA=</HashCode>
+      <FileName>WorldKeeper\WorldsKeeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGameLib.Events.EventObject" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAFAAAAAgAAACAAsQABACEgAQAQAiAAAAAAAA=</HashCode>
+      <FileName>Events\EventObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGameLib.AssetKeeper.AssetsKeeper">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAEAAAAAAACIAAAAAAAAAAAA=</HashCode>
+      <FileName>AssetKeeper\AssetsKeeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGameLib.Events.EventMap">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAgAAAAAQAQEAACAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Events\EventMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<style>
+  <BUTTON_UP>grass_tile</BUTTON_UP>
+  <BUTTON_DOWN>btn_normal</BUTTON_DOWN>
+</style>

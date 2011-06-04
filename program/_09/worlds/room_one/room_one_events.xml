@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<event_data>
+  <events>
+    <name>load_two</name>
+    <script_file>quiz_window</script_file>
+    <x>358</x>
+    <y>0</y>
+    <width>32</width>
+    <height>32</height>
+    <trigger>1</trigger>
+  </events>
+</event_data>

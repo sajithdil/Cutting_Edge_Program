@@ -1,0 +1,78 @@
+<asset>
+  <assets>
+    <comment>The button </comment>
+    <name>btn_down</name>
+  </assets>
+  <assets>
+    <comment>The button</comment>
+    <name>btn_normal</name>
+  </assets>
+  <assets>
+    <comment>Panel</comment>
+    <name>grass_tile</name>
+  </assets>
+  <assets>
+    <comment>lava</comment>
+    <name>lava</name>
+  </assets>
+  <assets>
+    <comment>dungeon tile</comment>
+    <name>dungeon</name>
+  </assets>
+  <assets>
+    <comment>The cursor</comment>
+    <name>cursor</name>
+  </assets>
+  <assets>
+    <comment>Player front normal</comment>
+    <name>P_U2</name>
+  </assets>
+  <assets>
+    <comment>Player front right</comment>
+    <name>P_U3</name>
+  </assets>
+  <assets>
+    <comment>Player front left</comment>
+    <name>P_U1</name>
+  </assets>
+  <assets>
+    <comment>Player down normal</comment>
+    <name>P_D1</name>
+  </assets>
+  <assets>
+    <comment>Player down left</comment>
+    <name>P_D2</name>
+  </assets>
+  <assets>
+    <comment>Player down right</comment>
+    <name>P_D3</name>
+  </assets>
+  <assets>
+    <comment>Player left normal</comment>
+    <name>P_L1</name>
+  </assets>
+  <assets>
+    <comment>Player left left</comment>
+    <name>P_L2</name>
+  </assets>
+  <assets>
+    <comment>Player left right</comment>
+    <name>P_L3</name>
+  </assets>
+  <assets>
+    <comment>Player right normal</comment>
+    <name>P_R1</name>
+  </assets>
+  <assets>
+    <comment>Player right left</comment>
+    <name>P_R2</name>
+  </assets>
+  <assets>
+    <comment>Player right right</comment>
+    <name>P_R3</name>
+  </assets>
+  <assets>
+    <comment>Player right right</comment>
+    <name>puzzle_parchment</name>
+  </assets>
+</asset>

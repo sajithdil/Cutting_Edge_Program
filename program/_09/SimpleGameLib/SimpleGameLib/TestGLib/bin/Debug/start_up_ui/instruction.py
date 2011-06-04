@@ -1,0 +1,1 @@
+print "Please explore the map";
