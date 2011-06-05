@@ -1,0 +1,3 @@
+[11:13:13 AM] Sajith Dilshan Jamal: http://msdn.microsoft.com/en-us/library/bb195024(v=xnagamestudio.10).aspx
+http://msdn.microsoft.com/en-us/library/bb195024.aspx
+[11:13:52 AM] Sajith Dilshan Jamal: http://stackoverflow.com/questions/720429/how-do-i-set-the-window-screen-size-in-xna

@@ -1,9 +1,1 @@
-Collision between player and map objects work
-Added events and swminder scripts
-Added script event map
-Added GUI script trigger
-
-Fixed animation switch issue
-
-Bug:
-Animations are active even after state change
+Changed The Log
