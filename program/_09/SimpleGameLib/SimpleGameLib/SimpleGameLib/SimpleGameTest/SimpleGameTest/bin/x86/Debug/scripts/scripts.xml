@@ -1,0 +1,17 @@
+<!--This file MUST contain all scripts used in the game-->
+<!--The file path is specified with the debug folder as the root-->
+<script_collection>
+  <script>
+    <!--The file is executed once the game loads-->
+    <alias>start_up</alias>
+    <file>scripts/start_up.py</file>
+  </script>
+  <script>
+    <alias>welcome</alias>
+    <file>scripts/welcome.py</file>
+  </script>
+  <script>
+    <alias>sys_msg</alias>
+    <file>scripts/system_messages.py</file>
+  </script>
+</script_collection>

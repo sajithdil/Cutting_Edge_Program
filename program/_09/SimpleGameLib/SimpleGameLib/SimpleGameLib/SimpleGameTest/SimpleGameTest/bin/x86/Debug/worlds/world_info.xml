@@ -1,0 +1,20 @@
+<!--This file contains all the worlds -->
+<!--The debug folder is considered the root-->
+<world_infos>
+  <!--The first room the player enters-->
+  <worlds>
+    <name>room_one</name>
+    <map>worlds/room_one/room_one_map.xml</map>
+    <assets>worlds/room_one/room_one_assets.xml</assets>
+    <events>worlds/room_one/room_one_events.xml</events>
+    <world_script>sys_msg</world_script>
+  </worlds>
+  <!--The second room -->
+  <worlds>
+    <name>room_two</name>
+    <map>worlds/room_two/room_two_map.xml</map>
+    <assets>worlds/room_two/room_two_assets.xml</assets>
+    <events>worlds/room_two/room_two_events.xml</events>
+    <world_script>welcome</world_script>
+  </worlds>
+</world_infos>

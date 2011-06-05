@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{12DCC88C-8414-43B5-972C-58CD5D0C0494}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SimpleGameLib</RootNamespace>
+    <AssemblyName>SimpleGameLib</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Build.Framework" />
+    <Reference Include="Microsoft.Dynamic, Version=1.1.0.20, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Scripting, Version=1.1.0.20, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Scripting.Metadata, Version=1.1.0.20, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="SimpleWindow">
+      <HintPath>..\SimpleWindow\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animations\AnimationAssets.cs" />
+    <Compile Include="Animations\AnimationSequence.cs" />
+    <Compile Include="Animations\AnimationSpace.cs" />
+    <Compile Include="Animations\AnimationWrapper.cs" />
+    <Compile Include="AssetKeeper\AssetsKeeper.cs" />
+    <Compile Include="Asset\Assets.cs" />
+    <Compile Include="Asset\AssetWrapper.cs" />
+    <Compile Include="ContentWrappers\ContentWrapper.cs" />
+    <Compile Include="Events\EventMap.cs" />
+    <Compile Include="Events\EventObject.cs" />
+    <Compile Include="KeyBoardModels\KeyboardModel.cs" />
+    <Compile Include="KeyBoardModels\KeyDownEvent.cs" />
+    <Compile Include="Players\IdleState.cs" />
+    <Compile Include="Players\Player.cs" />
+    <Compile Include="Players\PlayerCollection.cs" />
+    <Compile Include="Players\PlayerState.cs" />
+    <Compile Include="Players\State.cs" />
+    <Compile Include="Players\WalkLeftState.cs" />
+    <Compile Include="Players\WalkRightState.cs" />
+    <Compile Include="Scripts\ScriptData.cs" />
+    <Compile Include="SimpleLog\Log.cs" />
+    <Compile Include="SWRenderer\Skinner.cs" />
+    <Compile Include="SWRenderer\SpriteFontFactory.cs" />
+    <Compile Include="SWRenderer\Style.cs" />
+    <Compile Include="SWRenderer\SWFrameModel.cs" />
+    <Compile Include="SWRenderer\SWMinder.cs" />
+    <Compile Include="XML\Object.cs" />
+    <Compile Include="XML\ObjectSpace.cs" />
+    <Compile Include="Pythons\PythonObject.cs" />
+    <Compile Include="Scripts\ScriptKeeper.cs" />
+    <Compile Include="Events\Triggers.cs" />
+    <Compile Include="XML\StringWrapper.cs" />
+    <Compile Include="WorldData\World.cs" />
+    <Compile Include="WorldData\MapInformation.cs" />
+    <Compile Include="WorldData\MapObject.cs" />
+    <Compile Include="WorldData\MapQuadlilateral.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WorldKeeper\WorldsKeeper.cs" />
+    <Compile Include="XML\XMLReader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

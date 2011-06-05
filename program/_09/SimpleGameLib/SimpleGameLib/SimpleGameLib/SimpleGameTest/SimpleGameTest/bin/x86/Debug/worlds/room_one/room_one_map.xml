@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<map_data>
+  <mapObject>
+    <x>200</x>
+    <y>60</y>
+    <visible>true</visible>
+    <image>dungeon_tile_one</image>
+    <alias>door</alias>
+    <collision>false</collision>
+  </mapObject>
+  <mapQuads>
+    <x>10</x>
+    <y>10</y>
+    <visible>true</visible>
+    <image>dungeon_tile_one</image>
+    <alias>room_floor</alias>
+    <collision>false</collision>
+    <unitw>5</unitw>
+    <unith>1</unith>
+  </mapQuads>
+  <!--The floor of the room-->
+  <mapQuads>
+    <x>10</x>
+    <y>45</y>
+    <visible>true</visible>
+    <image>dungeon_tile_one</image>
+    <alias>room_floor</alias>
+    <collision>false</collision>
+    <unitw>5</unitw>
+    <unith>5</unith>
+  </mapQuads>
+</map_data>
+
+

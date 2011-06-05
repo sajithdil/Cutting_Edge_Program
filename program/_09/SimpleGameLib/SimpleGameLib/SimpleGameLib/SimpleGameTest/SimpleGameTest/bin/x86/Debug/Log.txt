@@ -1,0 +1,58 @@
+Starting to log....
+ 
+[ 4/6/2011 3:45:55 PM ] @Scriptkeeper : Starting to load scripts 
+ 
+[ 4/6/2011 3:45:55 PM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 4/6/2011 3:45:55 PM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 4/6/2011 3:45:55 PM ] @ Scriptkeeper : Empty script file missing alias or file 
+ 
+[ 4/6/2011 3:45:55 PM ] @Scriptkeeper : Finished loading scripts 
+ 
+[ 4/6/2011 3:45:55 PM ] @WorldsKeeper loading the worlds
+ 
+[ 4/6/2011 3:45:55 PM ] @WorldsKeeper finished loading the worlds
+ 
+[ 4/6/2011 3:45:55 PM ] @AssetsKeeper SimpleGameLib.AssetKeeper.AssetsKeeper loading the assets from : style/assets.xml
+ 
+[ 4/6/2011 3:45:55 PM ] @AssetsKeeper finished loading the assets from style/assets.xml
+ 
+[ 4/6/2011 3:45:55 PM ] @Style starting to load the file style style/style.xml
+ 
+[ 4/6/2011 3:45:55 PM ] @Style finished loading file style style/style.xml
+ 
+[ 4/6/2011 3:45:56 PM ] @World loading world room_one
+ 
+[ 4/6/2011 3:45:56 PM ] @EventMap SimpleGameLib.Events.EventMap from worlds/room_one/room_one_events.xml starting to load the events 
+ 
+[ 4/6/2011 3:45:56 PM ] @EventMap SimpleGameLib.Events.EventMap finished loading events worlds/room_one/room_one_events.xml
+ 
+[ 4/6/2011 3:45:56 PM ] @MapInformation SimpleGameLib.MapInformation starting to load the map worlds/room_one/room_one_map.xml
+ 
+[ 4/6/2011 3:45:56 PM ] @MapInformation SimpleGameLib.MapInformation finished loading the map information from worlds/room_one/room_one_map.xml
+ 
+[ 4/6/2011 3:45:56 PM ] @AssetsKeeper SimpleGameLib.AssetKeeper.AssetsKeeper loading the assets from : worlds/room_one/room_one_assets.xml
+ 
+[ 4/6/2011 3:45:56 PM ] @AssetsKeeper finished loading the assets from worlds/room_one/room_one_assets.xml
+ 
+[ 4/6/2011 3:45:56 PM ] @World executing the world script : sys_msg
+ 
+[ 4/6/2011 3:45:56 PM ] @World finished executing the world script
+ 
+[ 4/6/2011 3:45:56 PM ] @World finished loading the world room_one
+ 
+[ 4/6/2011 3:45:56 PM ] $start_up.py Attempting to add a player
+ 
+[ 4/6/2011 3:45:56 PM ] @PythonObject could not execute the string IronPython.Runtime.UnboundNameException: name 'WalkLeft' is not defined
+   at IronPython.Runtime.Operations.PythonOps.GetVariable(CodeContext context, String name, Boolean isGlobal, Boolean lightThrow)
+   at IronPython.Compiler.LookupGlobalInstruction.Run(InterpretedFrame frame)
+   at Microsoft.Scripting.Interpreter.Interpreter.Run(InterpretedFrame frame)
+   at Microsoft.Scripting.Interpreter.LightLambda.Run2[T0,T1,TRet](T0 arg0, T1 arg1)
+   at IronPython.Compiler.PythonScriptCode.RunWorker(CodeContext ctx)
+   at IronPython.Compiler.PythonScriptCode.Run(Scope scope)
+   at IronPython.Compiler.RuntimeScriptCode.InvokeTarget(Scope scope)
+   at IronPython.Compiler.RuntimeScriptCode.Run(Scope scope)
+   at Microsoft.Scripting.SourceUnit.Execute(Scope scope, ErrorSink errorSink)
+   at Microsoft.Scripting.Hosting.ScriptSource.Execute(ScriptScope scope)
+   at SimpleGameLib.PythonScp.PythonObject.executeString(String source) in C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\SimpleGameLib\Pythons\PythonObject.cs:line 64

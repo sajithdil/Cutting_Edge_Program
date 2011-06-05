@@ -1,0 +1,22 @@
+<asset>
+  <assets>
+    <comment>The button </comment>
+    <name>btn_down</name>
+  </assets>
+  <assets>
+    <comment>The button</comment>
+    <name>btn_normal</name>
+  </assets>
+  <assets>
+    <comment>Panel</comment>
+    <name>grass_tile</name>
+  </assets>
+  <assets>
+    <comment>lava</comment>
+    <name>lava</name>
+  </assets>
+  <assets>
+    <comment>dungeon tile</comment>
+    <name>dungeon</name>
+  </assets>
+</asset>

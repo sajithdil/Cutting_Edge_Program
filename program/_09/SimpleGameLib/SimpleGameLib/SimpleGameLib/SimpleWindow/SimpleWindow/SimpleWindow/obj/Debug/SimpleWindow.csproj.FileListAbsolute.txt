@@ -1,0 +1,15 @@
+C:\Users\ranger1\documents\visual studio 2010\Projects\SimpleWindow\SimpleWindow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ranger1\Documents\Visual Studio 2010\Projects\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.dll
+C:\Users\ranger1\Documents\Visual Studio 2010\Projects\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.pdb
+C:\Users\ranger1\Documents\Visual Studio 2010\Projects\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.dll
+C:\Users\ranger1\Documents\Visual Studio 2010\Projects\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.pdb
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.dll
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.pdb
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.dll
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.pdb
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.dll
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.pdb
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.dll
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\SimpleWindow\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.pdb

@@ -1,0 +1,3 @@
+C:\Documents and Settings\Gandalf\my documents\visual studio 2010\Projects\SimpleGameLib\SimpleGameTest\SimpleGameTestContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\SimpleGameTest\SimpleGameTestContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\SimpleGameTest\SimpleGameTestContent\obj\x86\Debug\ResolveAssemblyReference.cache

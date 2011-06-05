@@ -1,0 +1,27 @@
+C:\Documents and Settings\Gandalf\my documents\visual studio 2010\Projects\SimpleGameLib\TestGLib\bin\Debug\TestGLib.exe
+C:\Documents and Settings\Gandalf\my documents\visual studio 2010\Projects\SimpleGameLib\TestGLib\bin\Debug\TestGLib.pdb
+C:\Documents and Settings\Gandalf\my documents\visual studio 2010\Projects\SimpleGameLib\TestGLib\bin\Debug\SimpleGameLib.dll
+C:\Documents and Settings\Gandalf\my documents\visual studio 2010\Projects\SimpleGameLib\TestGLib\bin\Debug\SimpleGameLib.pdb
+C:\Documents and Settings\Gandalf\my documents\visual studio 2010\Projects\SimpleGameLib\TestGLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gandalf\my documents\visual studio 2010\Projects\SimpleGameLib\TestGLib\obj\x86\Debug\TestGLib.exe
+C:\Documents and Settings\Gandalf\my documents\visual studio 2010\Projects\SimpleGameLib\TestGLib\obj\x86\Debug\TestGLib.pdb
+C:\Documents and Settings\Gandalf\My Documents\Visual Studio 2010\Projects\SimpleGameLib\TestGLib\bin\Debug\SimpleWindow.dll
+C:\Documents and Settings\Gandalf\My Documents\Visual Studio 2010\Projects\SimpleGameLib\TestGLib\bin\Debug\SimpleWindow.pdb
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\TestGLib.exe
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\TestGLib.pdb
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\SimpleGameLib.dll
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\SimpleWindow.dll
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\SimpleGameLib.pdb
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\SimpleWindow.pdb
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\obj\x86\Debug\TestGLib.exe
+C:\Users\Jamal\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\obj\x86\Debug\TestGLib.pdb
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\TestGLib.exe
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\TestGLib.pdb
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\SimpleGameLib.dll
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\SimpleWindow.dll
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\SimpleGameLib.pdb
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\bin\Debug\SimpleWindow.pdb
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\obj\x86\Debug\TestGLib.exe
+C:\Users\stu08012\Desktop\SimpleGameLib\SimpleGameLib\TestGLib\obj\x86\Debug\TestGLib.pdb
